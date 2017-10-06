@@ -1,0 +1,13 @@
+# src/FdpBundle/Resources/config/routing.yml
+
+fdp_liste:
+    path:      /platform
+    defaults: { _controller: FdpBundle:Advert:index }
+
+fdp_view:
+    path:      /platform/advert/{id}
+    defaults: { _controller: FdpBundle:Advert:view }
+
+fdp_add:
+    path:      /platform/add
+    defaults: { _controller: FdpBundle:Advert:add }
