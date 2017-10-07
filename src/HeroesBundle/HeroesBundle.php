@@ -1,9 +1,9 @@
 <?php
 
-namespace FdpBundle;
+namespace HeroesBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class FdpBundle extends Bundle
+class HeroesBundle extends Bundle
 {
 }

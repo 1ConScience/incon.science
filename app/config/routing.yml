@@ -1,5 +1,5 @@
-fdp:
-    resource: "@FdpBundle/Controller/"
+heroes:
+    resource: "@HeroesBundle/Controller/"
     type:     annotation
     prefix:   /
 

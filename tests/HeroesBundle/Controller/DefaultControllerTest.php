@@ -1,6 +1,6 @@
 <?php
 
-namespace FdpBundle\Tests\Controller;
+namespace HeroesBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 
